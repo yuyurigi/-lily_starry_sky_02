@@ -1,1 +1,1 @@
-# -lily_starry_sky_02
+# lily_starry_sky_02
